@@ -4,6 +4,16 @@ This project is a fun web application that allows you to create hilarious cat me
 
 **Motivation:** This project was built as part of the Scrimba Frontend Developer Career Path, to practice and demonstrate skills learned throughout the course.
 
+**Live Deployment:** [https://gilded-yeot-66ed95.netlify.app/](https://gilded-yeot-66ed95.netlify.app/)
+
+## Screenshots
+
+![Cat Meme Generator Interface](Screenshot-1.png)
+*The main interface of the Cat Meme Generator, showing the image selection area.*
+
+![Meme Creation and Download](Screenshot-2.png)
+*An example of a meme being created,*
+
 ## Features
 
 *   **Cat Image Selection:** Browse through a collection of adorable (and sometimes grumpy) cat images.
