@@ -70,7 +70,7 @@ header{
     transition: transform 0.8s;
 }
 .emotion-radios:hover{
-    transform: scale(1.05);
+    transform: scale(1.10);
 }
 
 .radio{
