@@ -1,6 +1,6 @@
 # Cat Meme Generator
 
-This project is a fun web application that allows you to create hilarious cat memes!  You can choose from a variety of cat images, add custom text, and download your meme to share with friends.
+This project is a fun web application that allows you to create hilarious cat memes!  You can choose from a variety of cat images, add custom text, and download your meme to share with friends.(Not vibe coded)
 
 **Motivation:** This project was built as part of the Scrimba Frontend Developer Career Path, to practice and demonstrate skills learned throughout the course.
 
